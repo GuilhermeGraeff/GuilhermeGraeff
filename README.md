@@ -19,11 +19,11 @@ Linguagens:
 * GDScript/C# (Desenvolvimento de jogos)
 	
 ## Meu Setup
-*Processador: intel core i5-4460 cpu @ 3.20ghz.
-*Placa de vídeo: Gforce GTX 750Ti 2gb.
-*Ram: 8GB.
-*Placa mãe: Ainda Desconhecida.
-*Fonte: 500W.
+* Processador: intel core i5-4460 cpu @ 3.20ghz.
+* Placa de vídeo: Gforce GTX 750Ti 2gb.
+* Ram: 8GB.
+* Placa mãe: Ainda Desconhecida.
+* Fonte: 500W.
 
 ## ....
 ```
