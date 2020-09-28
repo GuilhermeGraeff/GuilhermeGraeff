@@ -5,6 +5,8 @@ Sou Guilherme Graeff, suave? *Insira uma frase impactante aqui*
 * [Tnstagram(só tem foto do meu gato)](https://www.instagram.com/graeff.guilherme/)
 * Steam Nickname: Graeff ou guilhermegraeff
 
+<span style="color: green"> Some green text </span>
+
 ## Informação geral
 Técnico em Manutenção e Suporte em informática, estudante e admirador de Ciência da Computação.
 Passar bem.
