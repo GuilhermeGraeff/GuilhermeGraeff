@@ -3,7 +3,7 @@ Sou Guilherme Graeff, suave? *Insira uma frase impactante aqui*
 ## Redes sociais:
 * [Twitter](https://twitter.com/gelermoalegre/)
 * [Tnstagram(só tem foto do meu gato)](https://www.instagram.com/graeff.guilherme/)
-* [Steam](Nickname: Graeff ou guilhermegraeff)
+* Steam Nickname: Graeff ou guilhermegraeff
 
 ## Informação geral
 Técnico em Manutenção e Suporte em informática, estudante e admirador de Ciência da Computação.
