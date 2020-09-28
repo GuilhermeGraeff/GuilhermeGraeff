@@ -42,6 +42,10 @@ $while (living){
 		go_get_some_brahma_to_wath_the_mengao();
 		have_fun();
 	}
+	if(died){
+		play("BandofHorses-TheFuneral");
+		break;
+	}
 	
 }
 ```
