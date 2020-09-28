@@ -1,7 +1,7 @@
 ### Eaí 👋
 Sou Guilherme Graeff, suave?
-## Table of contents
-* [General info](#general-info)
+## Redes sociais:
+* [Twitter](#https://twitter.com/gelermoalegre)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
