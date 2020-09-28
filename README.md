@@ -6,16 +6,24 @@ Sou Guilherme Graeff, suave?
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+Técnico em Manutenção e Suporte em informática, estudante e admirador de Ciência da Computação.
+Passar bem.
 	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+## Proficiências
+Linguagens:
+* Primeiro contato: Pascalzim :)
+* Python (Algoritimos e projetos pessoais->Bots)
+* Java; (Programação 1)
+* C; (Pesquisa e Ordenação de Dados, maratona de programação)
+* VBA (Projetos pessoais)
+* GDScript/C# (Desenvolvimento de jogos)
 	
-## Setup
-To run this project, install it locally using npm:
+## Meu Setup
+Processador: intel core i5-4460 cpu @ 3.20ghz.
+Placa de vídeo: Gforce GTX 750Ti 2gb.
+Ram: 8GB.
+Placa mãe: Ainda Desconhecida.
+Fonte: 500W.
 
 ```
 $ cd ../lorem
