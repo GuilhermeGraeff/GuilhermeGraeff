@@ -1,13 +1,14 @@
 ### Eaí 👋
-Sou Guilherme Graeff, suave?
+Sou Guilherme Graeff, suave? *Insira uma frase impactante aqui*
 ## Redes sociais:
 * [Twitter](https://twitter.com/gelermoalegre/)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Tnstagram(só tem foto do meu gato)](https://www.instagram.com/graeff.guilherme/)
+* [Steam](Nickname: Graeff ou guilhermegraeff)
 
-## General info
+## Informação geral
 Técnico em Manutenção e Suporte em informática, estudante e admirador de Ciência da Computação.
 Passar bem.
+
 	
 ## Proficiências
 Linguagens:
