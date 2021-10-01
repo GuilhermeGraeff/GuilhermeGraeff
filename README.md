@@ -18,6 +18,9 @@ Linguagens:
 * C; (Pesquisa e Ordenação de Dados, maratona de programação)
 * VBA (Projetos pessoais)
 * GDScript/C# (Desenvolvimento de jogos)
+* WebDev:
+* Laravel Php
+* Node / Express / Sequelize / Vue
 	
 ## Meu Setup
 * Processador: intel core i5-4460 cpu @ 3.20ghz.
