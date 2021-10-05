@@ -45,7 +45,7 @@ $while (living){
 		have_fun();
 	}
 	if(weekend){
-		go_get_some_brahma_to_wath_the_mengao();
+		go_get_some_brahma_to_watch_the_mengao();
 		have_fun();
 	}
 	if(died){
