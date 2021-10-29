@@ -29,9 +29,6 @@ Linguagens:
 * Placa mãe: Ainda Desconhecida.
 * Fonte: 500W.
 
-##
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGraeff&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
-
 ## ....
 ```
 $while (living){
