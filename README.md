@@ -1,5 +1,5 @@
 ### Eaí 👋
-Sou Guilherme Graeff, suave? *Insira uma frase impactante aqui*
+Sou Guilherme Graeff, suave? 
 ## Redes sociais:
 * [Twitter](https://twitter.com/gelermoalegre/)
 * [Instagram(só tem foto do meu gato)](https://www.instagram.com/graeff.guilherme/)
@@ -28,30 +28,6 @@ Linguagens:
 * Ram: 8GB.
 * Placa mãe: Ainda Desconhecida.
 * Fonte: 500W.
-
-## ....
-```
-$while (living){
-	wakeup();
-	body_maintenance();
-	be_heappy();
-	keep_it_up();
-	drink_coffe():
-	if(!weekend){
-		work();
-		have_fun();
-	}
-	if(weekend){
-		go_get_some_brahma_to_watch_the_mengao();
-		have_fun();
-	}
-	if(died){
-		play("BandofHorses-TheFuneral");
-		break;
-	}
-	
-}
-```
 
 <div>
   <a href="https://github.com/guilhermegraeff">
