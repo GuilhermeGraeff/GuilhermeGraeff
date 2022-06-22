@@ -26,7 +26,7 @@ Linguagens:
 	
 ## Meu Setup
 * Processador: intel core i5-4460 cpu @ 3.20ghz.
-* Placa de vídeo: Gforce GTX 1650 Super 2gb.
+* Placa de vídeo: Gforce GTX 1650 Super 6gb.
 * Ram: 16GB.
 * Placa mãe: Ainda Desconhecida.
 * Fonte: 500W.
