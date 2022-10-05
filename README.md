@@ -9,8 +9,9 @@ Sou Guilherme Graeff, suave?
 Técnico em Manutenção e Suporte em informática, estudante e admirador de Ciência da Computação.
 Passar bem.
 
-Sou bolsista pelo PRACTICE, na organização https://github.com/practice-uffs podem ser encontradas minhas contribuições :)
+Sou ex-bolsista pelo PRACTICE, na organização https://github.com/practice-uffs podem ser encontradas minhas contribuições :)
 
+Atualmente dev na [Amplimed](https://www.amplimed.com.br/)!!
 	
 ## Proficiências
 Linguagens:
