@@ -14,7 +14,6 @@ Sou ex-bolsista pelo PRACTICE, na organização https://github.com/practice-uffs
 Atualmente dev na [Amplimed](https://www.amplimed.com.br/)!!
 	
 ## Proficiências
-Linguagens:
 * Primeiro contato: Pascalzim :)
 * Python (Algoritimos e projetos pessoais->Bots)
 * Java; (Programação 1)
