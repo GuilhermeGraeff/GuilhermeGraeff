@@ -22,7 +22,8 @@ Atualmente dev na [Amplimed](https://www.amplimed.com.br/)!!
 * GDScript/C# (Desenvolvimento de jogos)
 * WebDev:
 * Laravel Php
-* Node / Express / Sequelize / Vue
+* Node / Express / Sequelize / Vue -> TypeScript
+* Nest js
 	
 ## Meu Setup
 * Processador: intel core i5-4460 cpu @ 3.20ghz.
