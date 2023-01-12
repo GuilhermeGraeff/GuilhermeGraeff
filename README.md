@@ -6,7 +6,9 @@ Sou Guilherme Graeff, suave?
 * Steam Nickname: Graeff ou guilhermegraeff
 
 ## Informação geral
-Técnico em Manutenção e Suporte em informática, estudante e admirador de Ciência da Computação.
+Desenvolvedor :D
+
+Também sou  - Técnico em Manutenção e Suporte em informática, estudante e admirador de Ciência da Computação.
 Passar bem.
 
 Sou ex-bolsista pelo PRACTICE, na organização https://github.com/practice-uffs podem ser encontradas minhas contribuições :)
