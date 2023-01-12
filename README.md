@@ -17,7 +17,7 @@ Atualmente dev na [Amplimed](https://www.amplimed.com.br/)!!
 * Primeiro contato: Pascalzim :)
 * Python (Algoritimos e projetos pessoais->Bots)
 * Java; (Programação 1)
-* C; (Pesquisa e Ordenação de Dados, maratona de programação)
+* C, C++; (Pesquisa e Ordenação de Dados, maratona de programação)
 * VBA (Projetos pessoais)
 * GDScript/C# (Desenvolvimento de jogos)
 * WebDev:
