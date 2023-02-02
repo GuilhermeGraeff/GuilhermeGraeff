@@ -1,7 +1,7 @@
 ### Eaí 👋
 Sou Guilherme Graeff, suave? 
 ## Redes sociais:
-* [Twitter](https://twitter.com/gelermoalegre/)
+<!--* [Twitter](https://twitter.com/gelermoalegre/)-->
 * [Instagram(só tem foto do meu gato)](https://www.instagram.com/graeff.guilherme/)
 * Steam Nickname: Graeff ou guilhermegraeff
 
