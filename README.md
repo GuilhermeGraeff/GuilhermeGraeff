@@ -7,10 +7,10 @@ Sou Guilherme Graeff, suave?
 * Steam Nickname: Graeff ou guilhermegraeff
 
 ## Informação geral
-Sou,
-Técnico em Manutenção e Suporte em informática pelo Instituto Federal Farroupilha - Campus Panambi (IFFar) 2016 - 2019.
-Bacharel em Ciência da Computação pela Universidade Federal da Fronteira Sul (UFFS) 2019/1 - 2023/1.
-Mestrando em Ciência da Computação na Universidade Federal do Rio Grande do Sul (UFRGS) 2023/2 - ????/?.
+Sou,<br />
+Técnico em Manutenção e Suporte em informática pelo Instituto Federal Farroupilha - Campus Panambi (IFFar) 2016 - 2019.<br />
+Bacharel em Ciência da Computação pela Universidade Federal da Fronteira Sul (UFFS) 2019/1 - 2023/1.<br />
+Mestrando em Ciência da Computação na Universidade Federal do Rio Grande do Sul (UFRGS) 2023/2 - ????/?.<br />
 
 Ex-bolsista pelo PRACTICE, na organização https://github.com/practice-uffs podem ser encontradas minhas contribuições :)
 
